@@ -1,4 +1,6 @@
 {
   "mongoURI": "mongodb+srv://Anto:Anto@merncourse-5bumf.mongodb.net/test?retryWrites=true&w=majority",
-  "jwtSecret": "mysecrettoken"
+  "jwtSecret": "mysecrettoken",
+  "githubClientID": "f840f7728fc8e1fcd691",
+  "githubSecret": "a9c7b529ed15c4267ca1adbe3955eafb10ec7cb7"
 }
